@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053537a6640243740921c8ec509de970, type: 3}
+  m_Name: Rangkaian 3
+  m_EditorClassIdentifier: 
+  rangkaianID: rangkaian_3
+  rangkaianName: Rangkaian 3
+  rangkaianDescription: 'Selamat datang pada Rangkaian Ketiga: Open House di FILKOM
+    Virtual. Ini merupakan rangkaian terakhir yang akan membawamu untuk mengenal
+    komunitas dan kelembagaan di FILKOM. Pada rangkaian ini terdapat 16 penugasan,
+    jangan lupa untuk mengerjakannya!'
+  penugasan:
+  - {fileID: 11400000, guid: c869a24893ad8fb40a9c6921b1bffe99, type: 2}
+  - {fileID: 11400000, guid: 0d0582b398645cf48959d5710fb5feef, type: 2}
+  - {fileID: 11400000, guid: 01a1371597fb2ab45829ba199ff54294, type: 2}
+  - {fileID: 11400000, guid: 88afe3ca8c748a84491d78e2b1d735f1, type: 2}
+  - {fileID: 11400000, guid: 1ccfd7df81832b247828903270f52e43, type: 2}
+  - {fileID: 11400000, guid: 31d46b2fc6c6994489b3f92bc8e8c1d1, type: 2}
+  - {fileID: 11400000, guid: cb1668671f83c6345a673f8a304abe13, type: 2}
+  - {fileID: 11400000, guid: 01e27f96208b78146a0b07a9b84a99cb, type: 2}
+  - {fileID: 11400000, guid: 6b98e742e5243e940ab504b1400c076f, type: 2}
+  - {fileID: 11400000, guid: 29335aa3a0c52dc4d83b608d9d1b4f16, type: 2}
+  - {fileID: 11400000, guid: 49b7510ebc2f7fc4095e83aca3679097, type: 2}
+  - {fileID: 11400000, guid: 8ebfdcb43977f56418e2796dabf8b462, type: 2}
+  - {fileID: 11400000, guid: a40934aecc84b7c4e86c953c4dbf20b0, type: 2}
+  - {fileID: 11400000, guid: 2283b41c6451f8443b7bc10e98ed8ee7, type: 2}
+  - {fileID: 11400000, guid: e3cc982abb48dc54fb56201b2536c123, type: 2}
+  - {fileID: 11400000, guid: c657173d0e15e4c43912fa9054fb5f82, type: 2}

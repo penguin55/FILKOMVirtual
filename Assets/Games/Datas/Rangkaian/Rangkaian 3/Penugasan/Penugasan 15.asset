@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aab7c3ca70bd9f4ca4ad9a6f817c955, type: 3}
+  m_Name: Penugasan 15
+  m_EditorClassIdentifier: 
+  questID: r3p15
+  questName: Cari Panitia Pendamping 2
+  questDescription: Cari panitia Pendamping 2 untuk menjawab pertanyaan yang diajukan
+    panitia seputar penugasan yang telah dilakukan.
+  requirementQuest: {fileID: 11400000, guid: 01a1371597fb2ab45829ba199ff54294, type: 2}

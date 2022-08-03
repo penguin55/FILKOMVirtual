@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d89f6506efeb6fa4c9162d77afb054ad, type: 3}
+  m_Name: FILKOM Virtual
+  m_EditorClassIdentifier: 
+  libraryName: FILKOM Virtual
+  achievements:
+  - {fileID: 11400000, guid: 5e5b3fdd1359e814798f634408578239, type: 2}
+  - {fileID: 11400000, guid: 2d9a807c547f3dc449d2dbdfb1113d54, type: 2}
+  - {fileID: 11400000, guid: 35c0e1bb8a22ff8488cbf048c5d8251e, type: 2}
+  - {fileID: 11400000, guid: 03bda24480244c5498934c033049e7fb, type: 2}
+  - {fileID: 11400000, guid: 63d972fe76ed3414da0a7eb53cbdd2e4, type: 2}
+  - {fileID: 11400000, guid: e2f45d025989fa140ac604b4ccaf4c5b, type: 2}
+  - {fileID: 11400000, guid: a70199faa7d1f154caf623f1c3547fcc, type: 2}
+  - {fileID: 11400000, guid: 386a34e84bccb0046948682bf9c9ea20, type: 2}
+  - {fileID: 11400000, guid: e3a329fdc69b541488698473f586efd0, type: 2}
+  - {fileID: 11400000, guid: f23ef683bcd1b37478841d2598f3720d, type: 2}
+  - {fileID: 11400000, guid: 27ba5a825ec957141a818d1095431044, type: 2}
+  - {fileID: 11400000, guid: 77134238c3161334da4ec8ce22fa2cdd, type: 2}

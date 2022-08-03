@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd342ca5e494ff944badcf0e78281d8c, type: 3}
+  m_Name: Gedung F
+  m_EditorClassIdentifier: 
+  idGedung: gedung-f
+  namaGedung: Gedung F
+  gambarGedung: {fileID: 21300000, guid: c42c92b8df4abab488b698cf8152d999, type: 3}
+  urlVR: https://virtual.ub.ac.id/360/Filkom/GedungF/index.html
+  deskripsiGedung: Gedung F merupakan gedung ikonik FILKOM tertinggi dengan 12 lantai,
+    dimana lantai 1 adalah diisi oleh Ruang Akademik dan Administrasi, lantai 2 -
+    4 digunakan sebagai belajar mengajar, lantai 5 digunakan sebagai ruang dekanat
+    dan kepengurusan prodi, lantai 6 merupakan ruang administrasi, lantai 7 - 11
+    merupakan ruang kelas dan ruang laboratorium dan yang p[aling atas lantai 12
+    adalah ruang seminar.

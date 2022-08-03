@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 28e602c96eb79e7478d0a6bf9f582291
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pulang
+  fontNames:
+  - Pulang
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d14bda030696fc44b8184f5a08010167, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
